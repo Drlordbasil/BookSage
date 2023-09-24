@@ -1,0 +1,5 @@
+Error occurred while scraping book data: HTTPSConnectionPool(host='www.examplebookstore.com', port=443): Max retries exceeded with url: /books (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001EA7EFFAC10>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+Here are some book recommendations based on your preferences:
+1. 
+2. 
+3. 
